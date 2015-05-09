@@ -1,0 +1,55 @@
+* amusement_park_zoo_enthusiast
+	* theme_park
+	* amusement_park
+	* water_park
+	* zoo
+
+* golfer
+	* golf_course
+		* public
+		* private
+
+* college_life
+	* higher_education_institution
+		* community_college
+		* small_college
+		* large_college_university
+
+* military_affliated
+	* military_base
+		* army_base
+		* navy_base
+		* marine_camp
+		* air_force_base
+
+* hardcore_sports_fan
+	* sports_stadium
+		* football_stadium
+		* baseball_stadium
+		* basketball_stadium
+		* hockey_stadium
+
+* convention_attendee_networker
+	* convention_center
+
+* outdoor_enthusiast
+	* state_national_park 
+	* campsite
+
+* winter_sportsman
+	* ski_resort
+
+* concert_goer
+	* music_arena
+
+* air_traveller
+	* airport
+		* commuter_airport
+		* regional_airport
+		* international_airport
+
+* mall_shopper
+	* shopping_mall
+
+* nascar_fan
+	* nascar_stadium

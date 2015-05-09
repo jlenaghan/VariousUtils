@@ -1,0 +1,14 @@
+import sys 
+import os
+import pprint
+
+start_date = 20120725
+end_date = 20120824
+
+dirs = []
+dirs.append('/data/twc/csv/daily/2012/07')
+dirs.append('/data/twc/csv/daily/2012/08')
+
+for dir in dirs:
+	listing = os.listdir(dir)
+	pprint.pprint(listing)
